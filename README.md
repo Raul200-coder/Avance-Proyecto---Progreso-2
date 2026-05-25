@@ -133,7 +133,3 @@ El proyecto incluye diagramas UML para representar la estructura y comportamient
 
 Este diagrama muestra las clases principales del proyecto, sus atributos, métodos y relaciones.
 
-Archivo sugerido:
-
-```text
-/docs/diagrama_clases.png
